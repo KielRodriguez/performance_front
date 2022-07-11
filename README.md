@@ -1,4 +1,4 @@
-# performance-front
+# performance_front
 
 ## Project setup
 ```
